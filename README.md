@@ -37,5 +37,6 @@ When you execute this program, this program display the number of audio jacks(on
 
 # LICENSE
 
-MIT license
-icon from here : https://icon-icons.com/ko/%EC%95%84%EC%9D%B4%EC%BD%98/%EB%9F%89-%EB%B0%94----%EB%91%A5%EA%B7%BC-%EA%B4%91%EC%9E%A5%EC%97%90%EC%84%9C-%EA%B2%80%EC%9D%80%EC%83%89-%EB%B0%8F-%ED%9D%B0%EC%83%89/70577 
+MIT license   
+
+ICON from here : https://icon-icons.com/ko/%EC%95%84%EC%9D%B4%EC%BD%98/%EB%9F%89-%EB%B0%94----%EB%91%A5%EA%B7%BC-%EA%B4%91%EC%9E%A5%EC%97%90%EC%84%9C-%EA%B2%80%EC%9D%80%EC%83%89-%EB%B0%8F-%ED%9D%B0%EC%83%89/70577 
