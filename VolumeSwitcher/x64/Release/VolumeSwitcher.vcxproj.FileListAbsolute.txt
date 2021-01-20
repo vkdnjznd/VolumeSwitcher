@@ -1,0 +1,2 @@
+D:\earphone_switcher\mine\VolumeSwitcher\VolumeSwitcher\x64\Release\VolumeSwitcher.Form1.resources
+D:\earphone_switcher\mine\VolumeSwitcher\VolumeSwitcher\x64\Release\VolumeSwitcher.vcxproj.GenerateResource.cache
